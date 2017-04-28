@@ -1,2 +1,2 @@
-# pfii-a8
-Programming Fundementals II Assignment 8 Team Repository
+# pfii-a8-webpage
+Programming Fundamentals II Assignment 8 Team Repository
