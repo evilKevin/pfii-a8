@@ -24,7 +24,17 @@ This deliverable will require one item:
 ### Tasks
 
 [x] README.md
+
 [] Research document -- See above under Requirements
+
 [] Planning document -- Google Doc?
+
 [] Decide on framework for webpage
+
 [] Make sure everyone can access repositories and knows Git
+
+---
+
+#### Other
+
+Something may have broken GitHub-flavored markdown, or at least it's changed and the documentation hasn't updated. If it doesn't work, keep trying for a bit, then give up and forget the styling.
