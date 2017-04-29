@@ -1,8 +1,10 @@
 # pfii-a8-webpage
 Programming Fundamentals II Assignment 8 Team Repository
 
+### IDE: NetBeans
+
 ### Requirements
-**Deliverable 1 - Construct a Website
+*Deliverable 1 - Construct a Website
 
 The website you develop will serve as a resource for those looking to learn more about the IDE.  Listed below are some of the factors you may want to consider.  You are not limited to the factors below, but feel free to use the factors below to help jumpstart your research
 
@@ -16,4 +18,4 @@ Feel free to use a HTML/CSS framework such as Zurb foundation, Bootstrap, Boiler
 This deliverable will require one item:
 
     - The project folder for your website –- files should be placed in a hierarchal structure.
-    Site should be hosted on a team member’s user space on the server and via GitHub pages.**
+    Site should be hosted on a team member’s user space on the server and via GitHub pages.
