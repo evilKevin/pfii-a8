@@ -23,8 +23,8 @@ This deliverable will require one item:
 ---
 ### Tasks
 
-- [x] README.md
-- [] Research document -- See above under Requirements
-- [] Planning document -- Google Doc?
-- [] Decide on framework for webpage
-- [] Make sure everyone can access repositories and knows Git
+[x] README.md
+[] Research document -- See above under Requirements
+[] Planning document -- Google Doc?
+[] Decide on framework for webpage
+[] Make sure everyone can access repositories and knows Git
