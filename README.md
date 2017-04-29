@@ -21,6 +21,7 @@ This deliverable will require one item:
     Site should be hosted on a team member’s user space on the server and via GitHub pages.
 
 ---
+
 ###Tasks
 
 - [x] README.md
