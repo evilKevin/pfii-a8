@@ -2,6 +2,7 @@
 Programming Fundamentals II Assignment 8 Team Repository
 
 IDE: NetBeans
+Framework: Skeleton
 ---
 ### Requirements
 Deliverable 1 - Construct a Website
@@ -26,5 +27,5 @@ Site should be hosted on a team member’s user space on the server and via GitH
 - [x] README.md
 - [ ] Research document -- See above under Requirements
 - [ ] Planning document -- Google Doc?
-- [ ] Decide on framework for webpage
+- [x] Decide on framework for webpage
 - [ ] Make sure everyone can access repositories and knows Git
